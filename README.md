@@ -3,6 +3,16 @@ A node js backend for a chat application
 
 This is the server-side project of Solustack..
 
+# Basic set up step
+Step 1:
+    Run git clone https://github.com/xxxxStartUp/ChatAppBackend.git 
+    or 
+    Download the project folder and unzip.
+
+Step 2: 
+    Run npm install
+
+
 # Folders 
 The App folder contains core modules required for the running of the server. 
 Controllers should be in app/http
