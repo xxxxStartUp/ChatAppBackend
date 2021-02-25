@@ -9,10 +9,12 @@ Step 1:
 
 Step 2: 
     Install and set up your laravel environment. Visit https://laravel.com/docs/8.x/installation <br>
+
 Step 3:
     Run git clone https://github.com/xxxxStartUp/ChatAppBackend.git  <br>
     or 
     Download the project folder and unzip. <br>
+    
 Step 4:
     Run the *composer install* command. <br>
 
